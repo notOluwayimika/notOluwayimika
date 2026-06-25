@@ -125,15 +125,7 @@ A talent and workforce platform with tagging, skill matching, positions, and rec
 - Share knowledge through technical writing.
 - Build products that solve real business problems.
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notOluwayimika&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notOluwayimika&layout=compact)
-
----
 
 ## 🤝 Let's Connect
 
