@@ -129,17 +129,15 @@ A talent and workforce platform with tagging, skill matching, positions, and rec
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notOluwayimika&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notOluwayimika&layout=compact)
 
 ---
 
 ## 🤝 Let's Connect
 
-- LinkedIn: YOUR_LINKEDIN
-- Twitter/X: YOUR_TWITTER
-- Portfolio: YOUR_PORTFOLIO
+- LinkedIn: https://www.linkedin.com/in/oluwayimika-ojo-bello-9014a5384
 
 ---
 
